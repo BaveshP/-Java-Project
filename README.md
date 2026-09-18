@@ -21,7 +21,7 @@ Steps to Install & Run the Project
 Prerequisites
 Ensure that Java Development Kit (JDK 8 or higher) is installed on your computer and configured in your system path.   
 Execution Steps
-Clone the repository:Download or clone the code repository to your local machine:git clone [https://github.com/YOUR_USERNAME/GPA-CGPA-Calculator.git](https://github.com/YOUR_USERNAME/GPA-CGPA-Calculator.git)
+Clone the repository:Download or clone the code repository to your local machine:git clone [https://github.com/YOUR_USERNAME/GPA-CGPA-Calculator.git](https://github.com/BaveshP/-Java-Project.git)
 Navigate to the directory:cd GPA-CGPA-Calculator
 Compile the source code:javac GPA_CGPA_Calculator.java
 Run the program:java GPA_CGPA_Calculator
